@@ -15,7 +15,7 @@ import (
 )
 
 var wwwPath = "/mnt/sdcard/hacks/web-config/www"
-var port = "80"
+var port = "8083"
 
 func setupRouter() *gin.Engine {
 	r := gin.Default()
