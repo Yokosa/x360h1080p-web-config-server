@@ -1,10 +1,10 @@
 package sshserver
 
 import (
-	"github.com/kless/osutil/user/crypt/sha512_crypt"
-	"github.com/telmomarques/x360h1080p-web-config-server/config"
-	"github.com/telmomarques/x360h1080p-web-config-server/customerror"
-	"github.com/telmomarques/x360h1080p-web-config-server/service"
+	"github.com/dannylin0711/x360h1080p-web-config-server/config"
+	"github.com/dannylin0711/x360h1080p-web-config-server/customerror"
+	"github.com/dannylin0711/x360h1080p-web-config-server/service"
+	"github.com/tredoe/osutil/v2/userutil/crypt/sha512_crypt"
 )
 
 const ID = "ssh-server"

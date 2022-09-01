@@ -5,13 +5,13 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/dannylin0711/x360h1080p-web-config-server/config"
+	"github.com/dannylin0711/x360h1080p-web-config-server/customerror"
+	"github.com/dannylin0711/x360h1080p-web-config-server/hack/rtspserver"
+	"github.com/dannylin0711/x360h1080p-web-config-server/hack/sshserver"
+	"github.com/dannylin0711/x360h1080p-web-config-server/hack/websocketstreamserver"
 	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
-	"github.com/telmomarques/x360h1080p-web-config-server/config"
-	"github.com/telmomarques/x360h1080p-web-config-server/customerror"
-	"github.com/telmomarques/x360h1080p-web-config-server/hack/rtspserver"
-	"github.com/telmomarques/x360h1080p-web-config-server/hack/sshserver"
-	"github.com/telmomarques/x360h1080p-web-config-server/hack/websocketstreamserver"
 )
 
 var wwwPath = "/mnt/sdcard/hacks/web-config/www"
