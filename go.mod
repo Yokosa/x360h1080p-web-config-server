@@ -12,7 +12,7 @@ require (
 	github.com/mattn/go-isatty v0.0.13-0.20200128103942-cb30d6282491
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
 	github.com/modern-go/reflect2 v1.0.1
-	github.com/tredoe/osutil/v2 v2.0.0-rc.16
+	github.com/tredoe/osutil/ v1.5.0
 	github.com/ugorji/go/codec v1.1.8-0.20190812104308-42bc974514ff
 	golang.org/x/sys v0.0.0-20200301040627-c5d0d7b4ec88
 	gopkg.in/go-playground/validator.v8 v8.18.2

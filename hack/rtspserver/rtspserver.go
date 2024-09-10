@@ -93,7 +93,7 @@ func Info() string {
 	ip := network.GetIP()
 
 	return `
-		<p>Mainstream (1920x1088): <a href='rtsp://` + ip + `:8554/mainstream'>rtsp://` + ip + `:8554/mainstream</a></p>
-		<p>Substream (640x360): <a href='rtsp://` + ip + `:8554/substream'>rtsp://` + ip + `:8554/substream</a></p>
+		<p>Mainstream (1920x1088): <a href='rtsp://` + ip + `:554/mainstream'>rtsp://` + ip + `:554/mainstream</a></p>
+		<p>Substream (640x360): <a href='rtsp://` + ip + `:554/substream'>rtsp://` + ip + `:554/substream</a></p>
 	`
 }
