@@ -1,12 +1,12 @@
-# github.com/dannylin0711/x360h1080p-web-config-server v0.0.0-20220901144231-74ebdce39129
+# github.com/Yokosa/x360h1080p-web-config-server 
 ## explicit
-github.com/dannylin0711/x360h1080p-web-config-server/config
-github.com/dannylin0711/x360h1080p-web-config-server/customerror
-github.com/dannylin0711/x360h1080p-web-config-server/hack/rtspserver
-github.com/dannylin0711/x360h1080p-web-config-server/hack/sshserver
-github.com/dannylin0711/x360h1080p-web-config-server/hack/websocketstreamserver
-github.com/dannylin0711/x360h1080p-web-config-server/network
-github.com/dannylin0711/x360h1080p-web-config-server/service
+github.com/Yokosa/x360h1080p-web-config-server/config
+github.com/Yokosa/x360h1080p-web-config-server/customerror
+github.com/Yokosa/x360h1080p-web-config-server/hack/rtspserver
+github.com/Yokosa/x360h1080p-web-config-server/hack/sshserver
+github.com/Yokosa/x360h1080p-web-config-server/hack/websocketstreamserver
+github.com/Yokosa/x360h1080p-web-config-server/network
+github.com/Yokosa/x360h1080p-web-config-server/service
 # github.com/gin-contrib/sse v0.1.1-0.20190905051334-43f0f29dbd2b
 ## explicit; go 1.12
 github.com/gin-contrib/sse
@@ -44,11 +44,11 @@ github.com/modern-go/concurrent
 # github.com/modern-go/reflect2 v1.0.1
 ## explicit
 github.com/modern-go/reflect2
-# github.com/tredoe/osutil/v2 v2.0.0-rc.16
+# github.com/tredoe/osutil v1.5.0
 ## explicit; go 1.16
-github.com/tredoe/osutil/v2/userutil/crypt
-github.com/tredoe/osutil/v2/userutil/crypt/common
-github.com/tredoe/osutil/v2/userutil/crypt/sha512_crypt
+github.com/tredoe/osutil/user/crypt
+github.com/tredoe/osutil/user/crypt/common
+github.com/tredoe/osutil/user/crypt/sha512_crypt
 # github.com/ugorji/go/codec v1.1.8-0.20190812104308-42bc974514ff
 ## explicit
 github.com/ugorji/go/codec

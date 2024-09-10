@@ -1,9 +1,9 @@
 package sshserver
 
 import (
-	"github.com/dannylin0711/x360h1080p-web-config-server/config"
-	"github.com/dannylin0711/x360h1080p-web-config-server/customerror"
-	"github.com/dannylin0711/x360h1080p-web-config-server/service"
+	"github.com/Yokosa/x360h1080p-web-config-server/config"
+	"github.com/Yokosa/x360h1080p-web-config-server/customerror"
+	"github.com/Yokosa/x360h1080p-web-config-server/service"
 	"github.com/tredoe/osutil/user/crypt/sha512_crypt"
 )
 
